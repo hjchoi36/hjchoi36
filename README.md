@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjchoi36&count_bg=%23A4D7C9&title_bg=%23256ED9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](hyeji.choi.1@stonybrook.edu)
+
+<i>I'm Hyeji Choi, a graduate student at Stony Brook University pursuing a doctoral degree in Applied Mathematics and Statistics.</i>
+
+<h3> 🪄 Tech & Tools </h3>
+
+[![Python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=Python&logoColor=white)]() [![C%2B%2B](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)]() 
+
+ 
 <!--
 **hjchoi36/hjchoi36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
